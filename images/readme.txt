@@ -1,0 +1,1 @@
+Copy over the image file (preferably nifti format) here.
